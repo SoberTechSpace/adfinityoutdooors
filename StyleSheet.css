@@ -1,0 +1,160 @@
+#navUp {
+  padding: 0% 15%;
+  background-image: url("images/paam.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.adfinity-logo {
+  font-family: Lobster Two;
+}
+
+.feat {
+  padding: 5% 1%;
+}
+
+#parent-com {
+  padding-top: 5%;
+  color: white;
+}
+
+.venture {
+  padding: 10% 0% 4% 75%;
+  font-family: Lobster Two;
+}
+
+.parent-head {
+  text-shadow: 2px 2px 1px #3b2e5a;
+  font-family: Bebas Neue;
+  text-decoration-style: solid;
+  font-size: 50px;
+  color: white;
+}
+
+
+.horad {
+  text-shadow: 1px 1px 5px black;
+  font-family: Bebas Neue;
+  text-decoration-style: solid;
+
+  color: white;
+}
+.parent-ven {
+  text-shadow: 1px 1px 2px red;
+  font-family: Lobster Two;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+}
+
+#nav-sec {
+  padding-left: 35%;
+  padding-bottom: 3%;
+}
+
+#intro {
+  padding: 1% 1%;
+  background-color: #e84a5f;
+}
+
+#feature {
+  padding: 2% 5%;
+  background-color: #d4f3ef;
+}
+
+.icon {
+  color: secondary;
+  margin-bottom: 6%;
+}
+
+#social {
+  padding:10%;
+  background-color: #e84a5f;
+}
+
+.soIcon {
+  padding: 3%;
+}
+
+
+
+th {
+  font-family: Ubuntu;
+  background-color: black;
+}
+
+.heads {
+  font-family: Bebas Neue;
+  font-size:
+}
+
+.feature-spl {
+  font-family: IBM Plex Serif;
+  font-size: 130%;
+}
+
+.fa {
+  color: #204051;
+}
+
+.info-bt {
+  font-family: Vollkorn;
+}
+
+.bg-tb {
+  background-color: secondary;
+}
+
+#Contact_Us {
+  padding: 8% 20%;
+  background-color: #12cad6;
+}
+
+.inCard {
+  padding: 5% 5%;
+  background-color: #f7f7f7;
+}
+
+#About_us {
+  background-color: #12cad6;
+  padding: 2% 10%;
+}
+
+.uppersec {
+  color: red;
+  font-weight: 650;
+  margin-top: 15px;
+  font-family : Crete Round;
+}
+
+.bgi {
+  margin-left: 40px;
+}
+
+.Upp-contact-us {
+  font-weight: 700;
+  font-size: 18px;
+  color: #e84a5f;
+}
+
+.crt {
+  background: #e84a5f;
+}
+
+.bottom-feat
+{
+  color: white;
+  border: 1px;
+  font-family: IBM Plex Serif;
+}
+#footer
+{
+  padding: 1%;
+  background-color: #f73859;
+}
+.so-line
+{
+  padding-top: 5%;
+  padding-left: 22%;
+}
